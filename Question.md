@@ -18,3 +18,4 @@ In order to stay healthy, you should have a balanced diet and get regular exerci
 
 8. 英単語が格納されているファイル(words.dat)を読み込みなさい．
 そして，英単語をランダムに出力しなさい．
+[データ](./words.dat)
