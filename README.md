@@ -1,0 +1,2 @@
+# BeginnerForPython
+C言語は知っているがPythonは全く知らない人を対象として，最速でPythonを修得するチュートリアル
