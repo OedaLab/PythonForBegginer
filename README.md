@@ -199,9 +199,11 @@ array.sort()
 
 ### 問題5 (No5.py)
 ランダムに0から9までの値を10個出力しなさい．
+[解答](./No5.py)
 
 ### 問題6 (No6.py)
 ランダムに英小文字を10個出力しなさい．
+[解答](./No6.py)
 
 ## 関数
 関数は書き方がC言語と違うだけで，使い方は一緒．
@@ -232,6 +234,7 @@ print(ans1, ans2)
 英文の単語の数をカウントしなさい．例えば
 In order to stay healthy, you should have a balanced diet and get regular exercise.
 では，単語数は15個となる．
+[解答](./No7.py)
 
 ## ファイル入力
 ```
