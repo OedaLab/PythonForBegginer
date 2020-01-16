@@ -1,4 +1,4 @@
-# BeginnerForPython
+# PythonForBeginner
 C言語は知っているがPythonは全く知らない人を対象として，最速でPythonを修得するチュートリアルです．
 Pythonの対象バージョンは3.4.3です．
 
