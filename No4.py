@@ -1,12 +1,6 @@
 # 問題4
-# ランダムに0から9までの値を10個出力しなさい．
+# キーボードから文字列を2つ入力して，それを結合しなさい．
 
-import random
-
-val = []
-
-for i in range(10):
-    r = random.randint(0,9)
-    val.append(r)
-
-print(val)
+sentense1 = input("Input your sentese1:")
+sentense2 = input("Input your sentese2:")
+print(sentense1+sentense2)
